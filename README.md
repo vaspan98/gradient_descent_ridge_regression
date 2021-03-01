@@ -17,7 +17,7 @@ Our goal is to implement the gradient descent, stochastic gradient descent and m
 3. We plot the Cost - Mean Square Error diagram for each experiment to observe the convergence and check for cases of overfitting / underfitting.
 
 ## Tips
-Add the 'HousingData.csv' dataset in your 'gdrive/My Drive/Colab Notebooks/' path to execute correctly
+Add the `HousingData.csv` dataset in your `gdrive/My Drive/Colab Notebooks/` path to execute correctly
 
 ## Author
 Vassilis Panagakis
